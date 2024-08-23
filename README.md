@@ -1,0 +1,2 @@
+# CostSentry
+Wishlist price tracker
